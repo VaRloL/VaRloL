@@ -1,1 +1,1 @@
-New guy at <b>programming.</b>
+Front-End, VUE.JS developer with knowledge in Node.JS-Express.js and MySQL database.
